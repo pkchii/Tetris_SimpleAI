@@ -3,7 +3,7 @@
 
 *Phiên bản AI đơn giản của [Tetris](https://github.com/kimchiiiiii/Tetris)*
 - Tên sinh viên: Phạm Kim Chi
-- MSV: 21020752
+- MSV: 21020287
 
 ### [Link demo](https://youtu.be/Hvzgrdc5Ikc)
 
